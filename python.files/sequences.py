@@ -1,0 +1,1 @@
+sequance : It is a collection capable to store bullk of amount of data at particular location simulati
